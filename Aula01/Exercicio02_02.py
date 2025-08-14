@@ -1,6 +1,9 @@
-num1 = 7
-num2 = 6.9
-num3 = 5
+nota = float(input("Digite sua nota"))
+if nota >=7:
+    print("Aprovado")
+elif 5 <= nota < 7:
+    print("Recuperacao")
+elif nota <= 5.9:
+    print("Reprovado")
 
-int(input("Digite sua nota"))
 
