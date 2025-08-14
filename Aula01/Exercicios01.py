@@ -52,6 +52,4 @@ print("\n")
 print("exponencial")
 print(a**b) 
 print("\n")
-'''exercico07'''
 
-print("exercicio07" "\n")
