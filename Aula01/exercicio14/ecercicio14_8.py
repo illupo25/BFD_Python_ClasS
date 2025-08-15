@@ -15,3 +15,7 @@
 # numeros.append(mult)
 
 # print(numeros)
+
+# a1 = [1, 2, 3, 4, 5, 6, ]
+# nova_lista = [x for x in a1 if x in (4,5)]
+# print(nova_lista)
