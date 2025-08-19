@@ -31,9 +31,9 @@ temperos = ["pimenta", "sal"]
 #frutas.sort(reverse=True)
 #print(frutas)
 
-fruta = "morango"
+# fruta = "morango"
 
-morango_do_amor = fruta
+# morango_do_amor = fruta
 
 # print(id(fruta))
 # print(id(morango_do_amor))
@@ -50,9 +50,10 @@ morango_do_amor = fruta
 # print(id(salada_de_frutas))
 
 #print(frutas.count("jaca"))
-salada_de_frutas = ["maca"]
-print(frutas)
+# salada_de_frutas = ["maca"]
+# print(frutas)
 # print(frutas.index("melao"))
-idx_melao = frutas.index("melao")
-frutas.pop(idx_melao)
-print(frutas)
+# idx_melao = frutas.index("melao")
+# frutas.pop(idx_melao)
+# print(frutas)
+
